@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <strong><h1>CV Nguyễn Văn A</h1></strong>
+    <img src="https://vnn-imgs-a1.vgcloud.vn/image1.ictnews.vn/_Files/2020/03/17/trend-avatar-1.jpg" alt="Me" width="180" height="200">
+    <p>Họ và tên: Nguyễn Văn A</p>
+    <p>Địa chỉ: 32 Dạ lê,Thừa Thiên Huế</p>
+    <p>Số điện thoại: 0123456789</p>
+    <p>Email: nguyenvanA@gmail.com</p>
+    <p>Học vấn: THPT</p>
+    <a href="http://thpt-hthuy.thuathienhue.edu.vn/">Trường Tốt nghiệp THPT hương thủy</a>
+    <p>Kỹ năng:cơ bản</p>
+    <p>Kinh Nghiệm: Thiếu Kinh nghiệm</p>
+    <P>Định hướng phát triển: Nâng cao chuyên môn,trình độ</P>
+</body>
+</html>
